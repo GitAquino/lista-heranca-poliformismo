@@ -17,6 +17,8 @@ A estrutura do projeto é organizada em pacotes, cada um responsável por uma pa
 - **FuncionarioComEnsinoBasico**: Funcionário com ensino básico.
 - **FuncionarioComEnsinoMedio**: Funcionário com ensino médio.
 - **FuncionarioComGraduacao**: Funcionário graduado.
+
+- **Comissao**: Classe para obter as comissões.
 - **Gerente**: Classe para gerentes.
 - **Supervisor**: Classe para supervisores.
 - **Vendedor**: Classe para vendedores.
