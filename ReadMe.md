@@ -56,8 +56,7 @@ lista-heranca-poliformismo/
 │   │   ├── Main
 │   │   ├── Preguica
 │   │   ├── Veterinario
-│   │   └── Zoologico
-│   │   
+│   │   └── Zoologico  
 ├── .gitignore
 ├── pom.xml
 └── README.md
